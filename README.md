@@ -3,10 +3,10 @@ Just a a lightweight, blazing-fast Linux CLI tool written in Go for searching fi
 It filters out the noise (like .git folders) and highlights directory matches in bold for better readability.
 
 ## Features
-Recursive Search: Deep-dives into subdirectories automatically.
-Skipping: Automatically ignores .git directories to save time and clutter.
-Visual Distinction: Clearly labels matches as [FILE] or [DIR], with directories highlighted in bold.
-Case-Insensitive: No need to worry about exact casing while searching.
+- Recursive Search: Deep-dives into subdirectories automatically.
+- Skipping: Automatically ignores .git directories to save time and clutter.
+- Visual Distinction: Clearly labels matches as [FILE] or [DIR], with directories highlighted in bold.
+- Case-Insensitive: No need to worry about exact casing while searching.
 
 ## Installation
 To install fastfind locally, ensure you have Go installed, then run:
